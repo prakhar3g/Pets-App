@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\gembook-master\Event_Announcements\src\main\java\com\gemini\event\config\SwaggerConfig.java
+C:\Users\user\Desktop\gembook-master\Event_Announcements\src\main\java\com\gemini\event\service\EventService.java
+C:\Users\user\Desktop\gembook-master\Event_Announcements\src\main\java\com\gemini\event\GeminiEventApplication.java
+C:\Users\user\Desktop\gembook-master\Event_Announcements\src\main\java\com\gemini\event\model\Event.java
+C:\Users\user\Desktop\gembook-master\Event_Announcements\src\main\java\com\gemini\event\controller\BaseResponse.java
+C:\Users\user\Desktop\gembook-master\Event_Announcements\src\main\java\com\gemini\event\dto\EventDetails.java
+C:\Users\user\Desktop\gembook-master\Event_Announcements\src\main\java\com\gemini\event\model\EventOrganiser.java
+C:\Users\user\Desktop\gembook-master\Event_Announcements\src\main\java\com\gemini\event\service\OrganiserService.java
+C:\Users\user\Desktop\gembook-master\Event_Announcements\src\main\java\com\gemini\event\controller\EventController.java
+C:\Users\user\Desktop\gembook-master\Event_Announcements\src\main\java\com\gemini\event\controller\OrganiserController.java
+C:\Users\user\Desktop\gembook-master\Event_Announcements\src\main\java\com\gemini\event\repository\EventRepo.java
+C:\Users\user\Desktop\gembook-master\Event_Announcements\src\main\java\com\gemini\event\repository\OrganiserRepo.java

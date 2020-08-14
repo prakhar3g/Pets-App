@@ -1,0 +1,12 @@
+com\gemini\event\config\SwaggerConfig.class
+com\gemini\event\controller\BaseResponse.class
+com\gemini\event\repository\EventRepo.class
+com\gemini\event\service\EventService.class
+com\gemini\event\controller\OrganiserController.class
+com\gemini\event\model\EventOrganiser.class
+com\gemini\event\GeminiEventApplication.class
+com\gemini\event\repository\OrganiserRepo.class
+com\gemini\event\controller\EventController.class
+com\gemini\event\dto\EventDetails.class
+com\gemini\event\service\OrganiserService.class
+com\gemini\event\model\Event.class
